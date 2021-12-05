@@ -32,4 +32,4 @@ while True:
     else:
         print("Your number is less than that number!")
 
-print("You guessed correct", guesses, "guesses")
+print("You guess is correct", guesses, "guesses")
